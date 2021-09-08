@@ -2,7 +2,7 @@
 
 ### Realizar los programas en lenguaje C
 
-- Que rellene de forma aleatoria un array de 10 elementos, con los 100 primeros números enteros y los muestre en pantalla en orden ascendente.
+1- Que rellene de forma aleatoria un array de 10 elementos, con los 100 primeros números enteros y los muestre en pantalla en orden ascendente.
 - Que rellene de forma aleatoria un array de 10 elementos, con los 100 primeros números enteros y los muestre en pantalla en orden descendente.
 - Que rellene de forma aleatoria un array de 10 elementos, con los números primos comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
 - Que rellene de forma aleatoria un array de 10 elementos con los números pares comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
