@@ -32,6 +32,6 @@
 28- Que lea una cadena y diga cuantas vocales hay.
 29- Que lea una cadena y diga cuantas no son vocales.
 30- Que lea una cadena y diga cuantas mayúsculas hay.
-31- Que lea una cadena y convierta las minúsculas en mayúsculas y viceversa.
-32- Que lea una cadena y la encripte sumando 3 al código ASCII de cada carácter. Mostrar por pantalla.
-33- Que solicite al usuario apellido y nombre y lo concatene para formar un nombre de usuario.
+31 - Que lea una cadena y convierta las minúsculas en mayúsculas y viceversa.
+32 - Que lea una cadena y la encripte sumando 3 al código ASCII de cada carácter. Mostrar por pantalla.
+33 - Que solicite al usuario apellido y nombre y lo concatene para formar un nombre de usuario.
