@@ -2,13 +2,13 @@
 
 ### Realizar los programas en lenguaje C
 
-Que rellene de forma aleatoria un array de 10 elementos, con los 100 primeros números enteros y los muestre en pantalla en orden ascendente.
-Que rellene de forma aleatoria un array de 10 elementos, con los 100 primeros números enteros y los muestre en pantalla en orden descendente.
-Que rellene de forma aleatoria un array de 10 elementos, con los números primos comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
-Que rellene de forma aleatoria un array de 10 elementos con los números pares comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
-Que rellene de forma aleatoria un array de 10 elementos, con los números impares comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
-Que lea 10 números por teclado, los almacene en un array y muestre la suma y la multiplicación de todos.
-Que lea 10 números aleatorios, los almacene en un array y los ordene de forma ascendente.
+- Que rellene de forma aleatoria un array de 10 elementos, con los 100 primeros números enteros y los muestre en pantalla en orden ascendente.
+- Que rellene de forma aleatoria un array de 10 elementos, con los 100 primeros números enteros y los muestre en pantalla en orden descendente.
+- Que rellene de forma aleatoria un array de 10 elementos, con los números primos comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
+- Que rellene de forma aleatoria un array de 10 elementos con los números pares comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
+- Que rellene de forma aleatoria un array de 10 elementos, con los números impares comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
+- Que lea 10 números por teclado, los almacene en un array y muestre la suma y la multiplicación de todos.
+- Que lea 10 números aleatorios, los almacene en un array y los ordene de forma ascendente.
 Que lea 10 números aleatorios, 5 para un array y 5 para otro array distinto. Mostrar los 10 números en pantalla mediante un solo array.
 Que lea 5 números por teclado, los copie a otro array multiplicados por 2 y muestre el segundo array.
 Que lea 5 números por teclado, los copie a otro array multiplicados por 2 y los muestre todos ordenados usando un tercer array.
