@@ -2,7 +2,7 @@
 *  con los 100 primeros números enteros y los muestre en pantalla en orden ascendente.
 */
 #include <stdio.h>
-#include <stlib.h>
+#include <stdlib.h>
 
 #define MAX 100
 
