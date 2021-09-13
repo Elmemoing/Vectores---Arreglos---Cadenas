@@ -1,4 +1,6 @@
-
+/* 1- Un programa que rellene de forma aleatoria un array de 10 elementos,
+*  con los 100 primeros números enteros y los muestre en pantalla en orden ascendente.
+*/
 #include <stdio.h>
 #include <stlib.h>
 
