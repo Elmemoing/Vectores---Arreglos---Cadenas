@@ -1,32 +1,36 @@
-#include <stdio.h>
+/* 3- Que rellene de forma aleatoria un array de 10 elementos,
+*  con los numeros primos comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
+*/
+
 #include <stdlib.h>
+#include <stdio.h>
 
 #define MAX 100
 
 int main()
 {
-  int c, cont1, cont2, x, numero[MAX]
-  c = 0
-    
-  for(x=0; x<=max; x++)
-      {
-        cont1 = 0
-        for(c=0; x<=MAX; c++)
-            {
-              if(x%c == 2)
-                {
-                  cont1++;
-                }
-            }
-         if (cont1==2 || c==1 || c== 0)
-          {
-            numero[x] = x;
-            c++
-          }
-      }
-   for(x=1; x<=cont2; x++)
-      {
-        printf("%d\n" numero[x])
-      }
-  return 0;
+	int x,cont,x2,cont2,numero[MAX];
+	cont2=0;
+	
+	for(x=1; x<=MAX; x++)
+		{
+			cont=0;
+			for (x2=1; x2<=x; x2++)
+				{
+					if (x%x2 == 0)
+						{
+			   				cont++;
+		    			}
+		    	}
+			if (cont==2 || x2==1 || x2==0)
+				{
+					numero[cont2] = x;
+					cont2++;
+				}
+		}
+	for(x=1; x<cont2; x++)
+		{
+			printf("%d\n", numero[x]);
+		}
+	return 0;
 }
