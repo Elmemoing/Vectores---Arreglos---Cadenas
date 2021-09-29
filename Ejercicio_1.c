@@ -6,8 +6,9 @@
 
 #define MAX 100
 
-int main()
+int main(void)
 {
+  clrscr();
   int x, numero[MAX];
   
   for (x=0; x<=numero[MAX]; x++)
@@ -18,5 +19,6 @@ int main()
       {
         printf("%d",numero[MAX]);
       }
+  system("PAUSE");
   return 0;
 }  
