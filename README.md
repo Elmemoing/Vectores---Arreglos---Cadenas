@@ -37,30 +37,30 @@
    - Cuál es el valor del número máximo.
    - Cuál es el valor del número mínimo.
   
-20- Escribir un programa que lea un vector de 10 elementos. Deberá imprimir el mismo vector por pantalla pero invertido. Ejemplo: dado el vector 1 2 3 4 5 6 7 8 9 10 el programa debería imprimir 10 9 8 7 6 5 4 3 2 1.
+17- Escribir un programa que lea un vector de 10 elementos. Deberá imprimir el mismo vector por pantalla pero invertido. Ejemplo: dado el vector 1 2 3 4 5 6 7 8 9 10 el programa debería imprimir 10 9 8 7 6 5 4 3 2 1.
 
-21- Escribir un programa que lea 10 números por teclado. Luego lea dos más e indique si éstos números están entre los anteriores.
+18- Escribir un programa que lea 10 números por teclado. Luego lea dos más e indique si éstos números están entre los anteriores.
 
-22- Escribir un programa que lea una matriz de 3 filas y 3 columnas de valores enteros. A continuación, el programa debe pedir el número de una fila. El programa deberá devolver el máximo de esa fila.
+19- Escribir un programa que lea una matriz de 3 filas y 3 columnas de valores enteros. A continuación, el programa debe pedir el número de una fila. El programa deberá devolver el máximo de esa fila.
 
-23- Escribir un programa que lea un matriz de enteros de 2 filas y 4 columnas y muestre por pantalla la traspuesta a dicha matriz.
+20- Escribir un programa que lea un matriz de enteros de 2 filas y 4 columnas y muestre por pantalla la traspuesta a dicha matriz.
 
-24- Escribir un programa que lea una matriz de números enteros y que devuelva la suma de los elementos positivos de la matriz y la suma de los elementos negativos.
+21- Escribir un programa que lea una matriz de números enteros y que devuelva la suma de los elementos positivos de la matriz y la suma de los elementos negativos.
 
-25- Escribir un programa que lea una matriz de enteros de 4 filas y 4 columnas y a continuación intercambie la fila i con la fila j, siendo i y j dos valores introducidos por teclado.
+22- Escribir un programa que lea una matriz de enteros de 4 filas y 4 columnas y a continuación intercambie la fila i con la fila j, siendo i y j dos valores introducidos por teclado.
 
-26- Escribir un programa que lea una matriz de 4 filas y 3 columnas, la visualice por pantalla y a continuación encuentre el mayor y el menor elemento de la matriz y sus posiciones.
+23- Escribir un programa que lea una matriz de 4 filas y 3 columnas, la visualice por pantalla y a continuación encuentre el mayor y el menor elemento de la matriz y sus posiciones.
 
-27- Que lea una cadena y la muestre al revés.
+24- Que lea una cadena y la muestre al revés.
 
-28- Que lea una cadena y diga cuantas vocales hay.
+25- Que lea una cadena y diga cuantas vocales hay.
 
-29- Que lea una cadena y diga cuantas no son vocales.
+26- Que lea una cadena y diga cuantas no son vocales.
 
-30- Que lea una cadena y diga cuantas mayúsculas hay.
+27- Que lea una cadena y diga cuantas mayúsculas hay.
 
-31 - Que lea una cadena y convierta las minúsculas en mayúsculas y viceversa.
+28 - Que lea una cadena y convierta las minúsculas en mayúsculas y viceversa.
 
-32 - Que lea una cadena y la encripte sumando 3 al código ASCII de cada carácter. Mostrar por pantalla.
+29 - Que lea una cadena y la encripte sumando 3 al código ASCII de cada carácter. Mostrar por pantalla.
 
-33 - Que solicite al usuario apellido y nombre y lo concatene para formar un nombre de usuario.
+30 - Que solicite al usuario apellido y nombre y lo concatene para formar un nombre de usuario.
