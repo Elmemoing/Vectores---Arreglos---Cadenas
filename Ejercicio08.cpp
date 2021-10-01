@@ -1,7 +1,6 @@
-/*8- Que lea 10 números aleatorios
-	5 para un array y 5 para otro array distinto. 
-	Mostrar los 10 números en pantalla mediante un solo array. */
-	
+/*Ejercicio 8- Que lea 10 nÃºmeros aleatorios 5 para un array y 5 para otro array distinto. 
+  Mostrar los 10 nÃºmeros en pantalla mediante un solo array. */
+
 #include <stdio.h>
 #include <stdlib.h>
 
