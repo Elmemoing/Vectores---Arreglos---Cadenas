@@ -1,4 +1,4 @@
-/* 2- Que rellene de forma aleatoria un array de 10 elementos, 
+/* Ejercicio 2- Que rellene de forma aleatoria un array de 10 elementos, 
  *    con los 100 primeros numeros enteros y los muestre en pantalla en orden descendente.
  */
  
