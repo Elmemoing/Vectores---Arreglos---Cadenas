@@ -1,4 +1,4 @@
-/*5- Que rellene de forma aleatoria un array de 10 elementos, con los números impares 
+/*Ejercicio 5- Que rellene de forma aleatoria un array de 10 elementos, con los nÃºmeros impares 
 comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.*/
 
 #include <stdio.h>
