@@ -1,4 +1,4 @@
-/*Que lea 10 numeros aleatorios, los almacene en un array y los ordene de forma ascendente.*/
+/*Ejercicio 7- Que lea 10 numeros aleatorios, los almacene en un array y los ordene de forma ascendente.*/
 
 #include <stdio.h>
 #include <stdlib.h>
