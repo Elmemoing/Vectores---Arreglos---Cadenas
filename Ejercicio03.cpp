@@ -1,6 +1,7 @@
-/* 3- Que rellene de forma aleatoria un array de 10 elementos,
+/* Ejercicio 3- Que rellene de forma aleatoria un array de 10 elementos,
 *  con los numeros primos comprendidos entre 1 y 100 y los muestre en pantalla en orden ascendente.
 */
+
 #include <stdlib.h>
 #include <stdio.h>
 #include<time.h>
