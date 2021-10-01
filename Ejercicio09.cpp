@@ -1,4 +1,4 @@
-/*9. Que lea 5 numeros por teclado, los copie a otro array multiplicados por 2 y muestre el segundo array.*/
+/*Ejercicio 9. Que lea 5 numeros por teclado, los copie a otro array multiplicados por 2 y muestre el segundo array.*/
 
 #include <stdio.h>
 #include <stdlib.h>
