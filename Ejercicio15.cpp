@@ -1,4 +1,4 @@
-/*Que llene una matriz de 3x3 y muestre su traspuesta 
+/*15 Que llene una matriz de 3x3 y muestre su traspuesta 
 	(la traspuesta se consigue intercambiando filas por columnas y viceversa).*/
 	
 #include <stdio.h>
