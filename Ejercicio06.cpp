@@ -1,5 +1,5 @@
-/*6- Que lea 10 números por teclado, los almacene en un array
- y muestre la suma y la multiplicación de todos.
+/*Ejercicio 6- Que lea 10 nÃºmeros por teclado, los almacene en un array
+ y muestre la suma y la multiplicaciÃ³n de todos.
 */
 
 #include <stdio.h>
