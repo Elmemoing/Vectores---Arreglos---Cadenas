@@ -7,7 +7,6 @@
 
 int main()
 {
-
     int final,x;
     char palabra[MAX];
     printf("Escriba una frase: ");
