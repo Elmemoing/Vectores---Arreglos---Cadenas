@@ -1,6 +1,5 @@
 /*Ejercicio 25- Que lea una cadena y diga cuantas vocales hay.
 */
-
 #include <stdio.h>
 #include <stdlib.h>
 
