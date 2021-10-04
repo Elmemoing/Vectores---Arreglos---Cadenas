@@ -7,7 +7,6 @@ para formar un nombre de usuario.*/
 int main()
 {
 	char nombre[50], apellido[50];
-	
 	printf("Ingrese un nombre: ");
 	gets(nombre);
 	
