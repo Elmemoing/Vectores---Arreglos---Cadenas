@@ -1,4 +1,4 @@
-/*26- Que lea una cadena y diga cuantas no son vocales.*/
+/*Ejercicio 26- Que lea una cadena y diga cuantas no son vocales.*/
 
 #include <stdio.h>
 
