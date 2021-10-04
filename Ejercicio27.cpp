@@ -1,4 +1,4 @@
-/* Ejercicio 27- Que lea una cadena y diga cuantas mayúsculas hay.
+/* Ejercicio 27- Que lea una cadena y diga cuantas mayÃºsculas hay.
 */
 
 #include <stdio.h>
