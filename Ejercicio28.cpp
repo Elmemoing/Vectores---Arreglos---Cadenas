@@ -1,4 +1,4 @@
-/*EJercicio 28- Que lea una cadena y convierta las minúsculas en mayúsculas y viceversa.
+/*EJercicio 28- Que lea una cadena y convierta las minÃºsculas en mayÃºsculas y viceversa.
 */
 #include<stdio.h>
 #include<conio.h>
