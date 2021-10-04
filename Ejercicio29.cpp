@@ -1,4 +1,4 @@
-/*Ejercicio 29- Que lea una cadena y la encripte sumando 3 al cÛdigo ASCII de cada car·cter. 
+/*Ejercicio 29- Que lea una cadena y la encripte sumando 3 al c√≥digo ASCII de cada car√°cter. 
 Mostrar por pantalla.*/
 
 #include <stdio.h>
