@@ -1,4 +1,5 @@
-/*13. Que mediante un array almacene números tanto positivos como negativos y los muestre ordenados.*/
+/*Ejercicio 13. Que mediante un array almacene números tanto positivos como negativos y los muestre ordenados.*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -8,7 +9,7 @@ int main()
   int i,j,n=10;
 
   for (i=0;i<n;i++){
-                    printf("Escriba un número");
+                    printf("Escriba un numero: ");
                     scanf("%f",&numeros[i]);
       }
 
@@ -23,4 +24,8 @@ int main()
            numeros[j]=aux;
        }
    }
+}
+  for (i=n-1;i>=0;i--){
+      printf("%f\n",numeros[i]);
   }
+}
