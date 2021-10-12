@@ -1,8 +1,8 @@
 /*Ejercicio 30- Que solicite al usuario apellido y nombre y lo concatene 
 para formar un nombre de usuario.*/
 
-#include <conio.h>
-#include <stdio.h>
+#include<conio.h>
+#include<stdio.h>
 
 int main()
 {
